@@ -5,7 +5,7 @@
 // parent::$total_students by calling the parent
 
 // Example of extanding parent's static method
-// Aadd code before, after, or around
+// Add code before, after, or around
 class Chef {
 
     public static function make_dinner(){
