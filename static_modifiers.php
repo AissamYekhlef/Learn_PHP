@@ -42,7 +42,7 @@ class PartTimeStudent extends Student {
     }
     //Overriden the method for add to both of subclass and parent
     public static function add_student(){
-        Student::add_student();
+        Student::add_student(); // or parent::add_student(); 
         self::$total_students_part++;
     }
 
