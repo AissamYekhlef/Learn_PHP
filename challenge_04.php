@@ -155,5 +155,4 @@ echo "<br /><br />";
 echo "Total Count Bicycles + Unicycle : " . Unicycle::total_instance_count();
 // total_instance_count = 7;
 
-Logger::log('sdfg');
 ?>
